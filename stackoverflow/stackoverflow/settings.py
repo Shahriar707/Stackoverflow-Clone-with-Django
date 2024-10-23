@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'stackusers',
     'crispy_forms',
     'crispy_bootstrap4',
+    'ckeditor',
 ]
 
 MIDDLEWARE = [
